@@ -1,2 +1,3 @@
 # My-blog
-大二时候的自己瞎搞搞。。。。
+
+The blog template
